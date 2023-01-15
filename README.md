@@ -1,2 +1,2 @@
 # odin-recipes
-A rudimentary website containing recipes in a basic HTML format. 
+A rudimentary website containing recipes. Created with only HTML. 
